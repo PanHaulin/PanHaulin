@@ -22,7 +22,7 @@ I maintain a blog `xxx` and a personal website `lincoding.cn`. You can find my a
 - [PanHaulin/KV-Server (MIT-6.824)](): *The implementation of experiments of the course `MIT-6.824`. Considering the course requirements, only docutments about important designs are provided. In addition, a logging plugin is provided to assist with debugging.*
 - [PanHaulin/Go-Cloud-Storage](https://github.com/PanHaulin/go-cloud-fileserver): *A cloud storage service implemented using the `Gin`, which has currently completed basic file transfer and storage features. More features will be added latter.*
 - [PanHaulin/Markdown-Note-WeApp](https://github.com/PanHaulin/Markdown-Note-WeApp): *A Markdown based note wechat mini program, which is easier to record than traditional note software, and easier to read than system sticky notes. Only the codes that I code with js are provided.
-- [PanHaulin/EDET](): *An epidemic dynamic evaluation and tracking system. Only brief design document is provided here.*
+- [PanHaulin/EDET](): *An epidemic dynamic evaluation and tracking system. Only a brief design document is provided here.*
 
 ### 🗂️ Others
 - [PanHaulin/Course-Demo](): Some demo implemented in response to course requirements, including a odd-even-sort mpi demo, a demo for solving mathematical problems based on seq2seq language model, a demo to calculate the number of combinations, and so on.

@@ -35,11 +35,7 @@ I maintain a blog `xxx` and a personal website `lincoding.cn`. You can find my a
 
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 
 |      <div style="width:90px"></div>    |         |
 | ----------- | ------------- |

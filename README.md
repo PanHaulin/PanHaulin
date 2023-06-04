@@ -7,7 +7,7 @@ My name is `Paulin`, a postgraduate student from SCUT. You can learn more about 
 - 🧰 Development: Golang; Python;
 
 ## ✍️ Blog & Personal Website
-I maintain a blog `xxx` and a personal website `lincoding.cn`. You can find my articles and some demos in these two.
+I maintain a blog website `www.lincoding.cn`. You can find my articles in there.
 
 ## 🔨 Project
 
